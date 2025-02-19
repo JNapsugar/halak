@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "halak_backend", "halak_backend\halak_backend.csproj", "{131D22E7-3715-4F47-864D-59CB9F7C4437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131D22E7-3715-4F47-864D-59CB9F7C4437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131D22E7-3715-4F47-864D-59CB9F7C4437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131D22E7-3715-4F47-864D-59CB9F7C4437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131D22E7-3715-4F47-864D-59CB9F7C4437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E6F7626-5072-4FCE-A2A9-AD6FBB891D03}
+	EndGlobalSection
+EndGlobal
