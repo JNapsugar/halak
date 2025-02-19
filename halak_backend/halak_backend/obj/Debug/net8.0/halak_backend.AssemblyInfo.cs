@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("halak_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3399f1590b16323a3779a81175ee71e97941eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("halak_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("halak_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
